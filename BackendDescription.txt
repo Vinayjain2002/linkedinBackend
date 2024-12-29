@@ -1,0 +1,4 @@
+will be using the sql, mongodb, and graphdb and redis
+
+// creating the services ie for the deployment of the mongodb, express, graph, redis , socket, passport where we are gonna to define the method to define these databases
+
